@@ -1,13 +1,6 @@
-## Hi there 👋
-
-
-<a href="[https://https://fdww.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-F57C00?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/seouk-sung-535645341" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-</a>
+## 안녕하세요 👋
+<a href="[https://https://fdww.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F57C00?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seouk-sung-535645341" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 <!--
 **GustavEiffels/GustavEiffels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
